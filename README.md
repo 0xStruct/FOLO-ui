@@ -2,10 +2,22 @@
 send and receive FLOW tokens (FTs, NFTs) with just social media handles or emails
 no wallets, no passwords, straight to fun and business 
 
+contract source: https://github.com/0xStruct/FOLO-contract
+ui source: https://github.com/0xStruct/FOLO-ui
+
 ### Send
+https://folo.vercel.app/send
+
 - send any tokens (FTs, NFTs) to anyone without a wallet using email, twitter handle, discord handle, and many more
 
+### Check
+https://folo.vercel.app/check
+
+- query by social handles / emails to see if any deposits have been made there
+
 ### Redeem
+https://folo.vercel.app/redeem
+
 - check if you have received anything by putting in your email or social handles
 - login with email, and other social accounts (twitter, discord, etc)
 - redeem to the custodied Flow wallet
@@ -15,6 +27,7 @@ no wallets, no passwords, straight to fun and business
 - send and receive any tokens (FTs, NFTs), without worrying if vaults/collections are already setup
 - now billions of social media users and email users have exposure to FLOW
 - visible, viral, social way of passing values, assets, incentives around
+- - on the way to onboarding and activating billions of web2 users
 
 ### How is it built
 - a creative abstraction layer on top of Flowty's LostAndFound contract to extend beyond working with just FLOW addresses
