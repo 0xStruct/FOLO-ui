@@ -1,0 +1,89 @@
+.landing {
+    white-space: nowrap;
+    overflow: hidden;
+    position: relative;
+    height: 90px;
+  }
+
+.ltitle {
+    font-family: acumin-pro, sans-serif;
+    font-size: 3.75rem;
+    line-height: 1.5;
+    display: block;
+    font-weight: 700;
+    overflow: hidden;
+    position: absolute;
+    top: 0.2rem;
+    animation: openclose 12s ease-in-out infinite;
+}
+
+@keyframes openclose {
+    0% {
+      top: 0;
+      width: 0;
+    }
+    5% {
+      top: 0;
+      width: 200px;
+    }
+    15% {
+      top: 0;
+      width: 400px;
+    }
+    20% {
+      top: 0;
+      width: 0;
+    }
+    30% {
+      top: -5.625rem;
+      width: 0;
+    }
+    35% {
+      top: -5.625rem;
+      width: 200px;
+    }
+    40% {
+      top: -5.625rem;
+      width: 400px;
+    }
+    45% {
+      top: -5.625rem;
+      width: 0;
+    }
+    55% {
+      top: -11.25rem;
+      width: 0;
+    }
+    60% {
+      top: -11.25rem;
+      width: 200px;
+    }
+    65% {
+      top: -11.25rem;
+      width: 400px;
+    }
+    70% {
+      top: -11.25rem;
+      width: 0;
+    }
+    80% {
+      top: -16.875rem;
+      width: 0;
+    }
+    85% {
+      top: -16.875rem;
+      width: 200px;
+    }
+    90% {
+      top: -16.875rem;
+      width: 400px;
+    }
+    95% {
+      top: -16.875rem;
+      width: 0;
+    }
+    100% {
+      top: 0;
+      width: 0;
+    }
+  }
