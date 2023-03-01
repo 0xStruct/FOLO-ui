@@ -1,9 +1,10 @@
 ## FOLO @HeyFOLO
-send and receive FLOW tokens (FTs, NFTs) with just social media handles or emails
-no wallets, no passwords, straight to fun and business 
+send and receive FLOW tokens (FTs, NFTs) with just social handles or emails
 
-contract source: https://github.com/0xStruct/FOLO-contract
-ui source: https://github.com/0xStruct/FOLO-ui
+_no wallets, no passwords,_ **straight to fun and business**
+
+- contract source: https://github.com/0xStruct/FOLO-contract
+- ui source: https://github.com/0xStruct/FOLO-ui
 
 ### Send
 https://folo.vercel.app/send
